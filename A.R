@@ -1,3 +1,3 @@
 import df
 
-print
+print df[1]
